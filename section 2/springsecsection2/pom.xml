@@ -11,7 +11,7 @@
 	<groupId>com.youssefabidi</groupId>
 	<artifactId>springsecsection2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springsecuritybasic</name>
+	<name>springsecsection2</name>
 	<description>Demo project for Spring Boot and Security</description>
 	<properties>
 		<java.version>17</java.version>
@@ -41,6 +41,12 @@
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.jetbrains</groupId>
+			<artifactId>annotations</artifactId>
+			<version>RELEASE</version>
+			<scope>compile</scope>
 		</dependency>
 	</dependencies>
 
