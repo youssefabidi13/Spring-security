@@ -11,7 +11,7 @@
 	<groupId>com.youssefabidi</groupId>
 	<artifactId>springsecsection4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springsecsection3</name>
+	<name>springsecsection4</name>
 	<description>Demo project for Spring Boot and Security</description>
 	<properties>
 		<java.version>17</java.version>
